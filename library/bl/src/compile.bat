@@ -1,0 +1,1 @@
+javac -classpath ..\..\dl\classes;. -d ..\classes com\thinking\machines\library\bl\*.java
